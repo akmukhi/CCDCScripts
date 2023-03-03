@@ -12,3 +12,4 @@ sudo chmod -R go+w AssembledFiles/
 sudo chmod -R go+w Captures/
 mono NetworkMiner.exe --noupdatecheck
 
+echo "install complete"

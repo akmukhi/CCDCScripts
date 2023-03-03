@@ -15,3 +15,4 @@ sed -i 's/nullok//g' /etc/pam.d/system-auth
 
 echo "turn http off"
 service httpd stop
+echo "finished
